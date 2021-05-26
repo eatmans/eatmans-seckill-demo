@@ -1,5 +1,5 @@
 # eatmans-seckill-demo
-利用Springboot + SpirngCloud 实现一个简单的秒杀系统
+利用Springboot + SpringCloud 实现一个简单的秒杀系统
 
 模块名称       端口   职责
 
