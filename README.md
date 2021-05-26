@@ -1,7 +1,7 @@
 # eatmans-seckill-demo
 利用Springboot + SpirngCloud 实现一个简单的秒杀系统
 
-各模块的端口
+模块名称       端口   职责
 
 seckill-config  8762 配置中心
 
